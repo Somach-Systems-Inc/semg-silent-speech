@@ -8,7 +8,7 @@
 
 This repository contains the **complete dataset, source code, evaluation pipeline, and LaTeX sources** for two companion papers on silent speech interface (SSI) classification using a \$40 consumer-grade sEMG system (2× AD8232 + ESP32).
 
-**Replication Guide:** [https://somach.vercel.app/editorial/complete-guide.html](https://somach.vercel.app/editorial/complete-guide.html)
+**Replication Guide:** [https://carlkho.com/editorial/complete-guide.html](https://carlkho.com/editorial/complete-guide.html)
 
 ## Abstract
 
@@ -155,7 +155,7 @@ A controlled comparison establishing that chin + under-chin (lingual-mandibular)
 - **Channels:** 2 differential (CH1: GPIO 34, CH2: GPIO 36)
 - **Reference:** Single mastoid electrode shared by both AD8232 modules
 
-Full build guide with photos: [somach.vercel.app/editorial/complete-guide.html](https://somach.vercel.app/editorial/complete-guide.html)
+Full build guide with photos: [carlkho.com/editorial/complete-guide.html](https://carlkho.com/editorial/complete-guide.html)
 
 ## Getting Started
 
